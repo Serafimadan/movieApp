@@ -1,0 +1,4 @@
+"https://api.themoviedb.org/3/search/movie?&api_key=30155d7a6fc93e97a1d16dab13298fda&query="
+"https://image.tmdb.org/t/p/w1280"
+"https://api.themoviedb.org/3/discover/movie?api_key=30155d7a6fc93e97a1d16dab13298fda&language=en-US&sort_by=popularity.desc&include_adult=false&include_video=false&page=1"
+
